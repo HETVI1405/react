@@ -13,11 +13,8 @@ A simple counter application built with React and Redux Toolkit. It demonstrates
 - ✅ Increment and decrement the count  
 - ✅ Redux Toolkit for state management  
 - ✅ Modern and responsive UI
-- ## 📹 Demo Video
+
+ ## 📹 Demo Video
 
 👉 [Watch Video Demo](https://github.com/user-attachments/assets/545ef9f3-25ab-401c-b56d-522eed99ccc8)
-# result
 
-<video controls>
-  <source src="https://github.com/user-attachments/assets/545ef9f3-25ab-401c-b56d-522eed99ccc8" type="video/mp4">
-</video>
