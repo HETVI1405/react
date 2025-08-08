@@ -1,12 +1,18 @@
-# React + Vite
+# 🔢 Redux Toolkit Counter App
+A simple counter application built with React and Redux Toolkit. It demonstrates the basic use of useSelector, useDispatch, and Redux slice state management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛠️ Tech Stack
+-> React
+-> Redux Toolkit
+-> React Redux
+-> CSS (for styling)
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Display current count  
+- ✅ Increment and decrement the count  
+- ✅ Redux Toolkit for state management  
+- ✅ Modern and responsive UI
+- 
+# result
+output :- <a href="https://github.com/user-attachments/assets/545ef9f3-25ab-401c-b56d-522eed99ccc8">click here</a>
