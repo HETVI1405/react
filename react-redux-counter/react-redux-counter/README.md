@@ -2,9 +2,9 @@
 A simple counter application built with React and Redux Toolkit. It demonstrates the basic use of useSelector, useDispatch, and Redux slice state management.
 
 # 🛠️ Tech Stack
--> React
--> Redux Toolkit
--> React Redux
+-> React <br>
+-> Redux Toolkit <br>
+-> React Redux <br>
 -> CSS (for styling)
 
 ## 🚀 Features
