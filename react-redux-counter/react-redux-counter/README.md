@@ -15,4 +15,7 @@ A simple counter application built with React and Redux Toolkit. It demonstrates
 - ✅ Modern and responsive UI
 - 
 # result
-output :- <video="https://github.com/user-attachments/assets/545ef9f3-25ab-401c-b56d-522eed99ccc8" controls>click here</a>
+
+<video controls>
+  <source src="https://github.com/user-attachments/assets/545ef9f3-25ab-401c-b56d-522eed99ccc8" type="video/mp4">
+</video>
