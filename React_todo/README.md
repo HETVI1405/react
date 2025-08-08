@@ -1,12 +1,13 @@
-# React + Vite
+# 📝 Redux Toolkit Todo App
+This is a simple Todo List application built using React and Redux Toolkit. It supports adding, toggling, deleting, and inline editing of todo items
+# ✍️ How to Use
+-> Add Todo: Type in the input and press Enter.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-> Toggle Complete: Click the todo text.
 
-Currently, two official plugins are available:
+-> Edit Todo: Click the todo text to edit. Press Enter or click outside to save, Escape to cancel.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-> Delete Todo: Click the x button.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# result
+output :- <a href ="https://drive.google.com/file/d/16XzWcEtCtO6rekBL-WG6xJf8Rh5Qcs34/view?usp=sharing">click here</a>
